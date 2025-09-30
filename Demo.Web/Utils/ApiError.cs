@@ -1,0 +1,16 @@
+﻿namespace Demo.Web.Utils
+{
+    public class ApiError
+    {
+        public ApiError()
+        {
+        }
+
+        public ApiError(string message)
+        {
+            Message = message;
+        }
+
+        public string Message { get; set; }
+    }
+}
