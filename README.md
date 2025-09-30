@@ -5,12 +5,11 @@
 <br/>
 <ul>
   <li>Usage of <strong>ASP.NET Core API</strong> Controllers</li>
-  <li>Clean Architecture structure (Domain, Application, Web API, Infrastructure)</li>
+  <li>Clean Architecture structure <strong>(Domain, Application, Web API, Infrastructure)</strong></li>
   <li><strong>Entity Framework Core</strong></li>
   <li><strong>ASP.NET Identity Core</strong></li>
   <li><strong>JWT (Bearer Token)</strong> Based Authentication</li>
   <li><strong>Dependency injection</strong></li>
-  <li>Description api with <strong>Swagger</strong></li>
   <li>Usage of <strong>MSSQL</strong> as database</li>
 </ul>
 <h1>Quick Start</h1>
